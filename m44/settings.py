@@ -32,7 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # Local apps
-    'home.apps.HomeConfig',
+    'twighlight.apps.TwighlightConfig',
 
     # Django apps
     'django.contrib.admin',
